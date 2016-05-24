@@ -1,7 +1,11 @@
 name: RumBenPets
 author: Skullex
-OrigionalAuthor: Adam1609 & Justin
-description: A fork of YaBoiBalAnce with an amazing support! Work with Genisys and Imagicalmine
-version: 1.0.3 
+origionalauthor: Adam1609 & Justin
+description: A fork of YaBoiBalAnce and Adam1609 & Justin's project! Works with Genisys and Imagicalmine and extended for RumBenCraft
+version: 1.0.4
 main: RBC\Main
-api: 2.0.0
+api:
+- 1.14.0
+- 1.13.0
+- 2.0.0
+- 1.0.0
